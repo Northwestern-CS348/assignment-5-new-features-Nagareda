@@ -1,0 +1,156 @@
+TESTS WITH ERRORS 
+test01_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 26, in test01_01
+    core.buildFOPC('One of the wooden chair is yellow')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test02_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 30, in test02_01
+    core.buildFOPC('One of the wooden chair is red')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test03_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 34, in test03_01
+    core.buildFOPC('One of the metal chair is green')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test04_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 38, in test04_01
+    core.buildFOPC('One of the metal chair is red')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test05_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 42, in test05_01
+    core.buildFOPC('Three of the chairs are cubes')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test05_02 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 46, in test05_02
+    core.buildFOPC('Three of the chairs are cubes')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test05_03 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 50, in test05_03
+    core.buildFOPC('Three of the chairs are cubes')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test06_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 54, in test06_01
+    core.buildFOPC('One of the chairs is a pyramid')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test07_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 58, in test07_01
+    core.buildFOPC('The red chairs are big')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test07_02 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 62, in test07_02
+    core.buildFOPC('The red chairs are big')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test08_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 66, in test08_01
+    core.buildFOPC('The red metal chairs is on the yellow chair')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test09_01 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 70, in test09_01
+    core.buildFOPC('The chairs are on the box')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test09_02 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 74, in test09_02
+    core.buildFOPC('The chairs are on the box')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test09_03 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 78, in test09_03
+    core.buildFOPC('The chairs are on the box')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+test09_04 (gradingtests.UnitTests)
+Traceback (most recent call last):
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\gradingtests.py", line 82, in test09_04
+    core.buildFOPC('The chairs are on the box')
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\core.py", line 57, in buildFOPC
+    student_code.buildFeatureStatement(doc)
+  File "C:\Users\kille\academics\automatedgradingapp\app\testing\new-features\student_code.py", line 52, in buildFeatureStatement
+    names = core.resolveOjbectFOPC(sub)
+AttributeError: module 'core' has no attribute 'resolveOjbectFOPC'
+
+-------------------------------
+TESTS FAILED  
+-------------------------------
+TESTS SKIPPED 
+-------------------------------
